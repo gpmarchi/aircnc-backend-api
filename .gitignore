@@ -60,4 +60,9 @@ typings/
 # next.js build output
 .next
 
+# nodemon config
 nodemon.json
+
+#misc
+.DS_STORE
+/uploads
